@@ -19,10 +19,11 @@ Atente-se para as condições de uso livre descritas no arquivo "aritmetica.py".
 Leia-o de modo a não infringir as regras de uso.
 
 Ao usar as funções, não esqueça de citar corretamente o artigo da Revista do 
-Professor de Matemática (RPM) nas normas ABNT vigentes.
+Professor de Matemática Online (PMO) nas normas ABNT vigentes.
 
 Questões? Dúvidas?
-Escreva para (a) magrini@ifsp.edu.br ou (b) mariana.baroni@ifsp.edu.br
+Escreva para (a) magrini@ifsp.edu.br ou (b) mariana.baroni@ifsp.edu.br ou
+             (c) augusto.ribeiro@sme.prefeitura.sp.gov.br
 
 """
 
