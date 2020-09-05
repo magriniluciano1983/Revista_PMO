@@ -2,9 +2,9 @@
 Quantidade de dígitos dos primeiros 25 números de Fermat
 Gerado pela função numero_de_digitos do modulo aritmetica.py
 
-Escrito por Magrini, L.A. & Baroni, M. P. M. A.
-            magrini@ifsp.edu.br & mariana.baroni@ifsp.edu.br
-
+Escrito por Magrini, L.A. & Baroni, M. P. M. A. & Almeida A. R.
+            magrini@ifsp.edu.br & mariana.baroni@ifsp.edu.br & 
+            augusto.almeida@sme.prefeitura.sp.gov.br
 Gerado em 07/2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
