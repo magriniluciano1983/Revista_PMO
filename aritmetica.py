@@ -11,7 +11,7 @@ Created on Sun Apr 19 15:59:49 2020
 Este arquivo contém todas as funções implementadas na investigação  dos proble-
 mas apresentados no artigo "Investigações Numérico-Computacionais em Teoria dos
 Números: Construindo e Refutando Conjecturas" publicado na Revista do Professor
-de Matemática (RPM) número XX e é de uso livre a todos os leitores e interessa-
+de Matemática Online (PMO) número XX e é de uso livre a todos os leitores e interessa-
 dos desde que se faça a referência e citação completa do referido artigo.
 
 Apesar de autorizados o uso e a  reprodução das funções aqui implementadas gra-
@@ -25,6 +25,7 @@ mos acima.
 Contate-nos caso necessário ou existam dúvidas:
 a) magrini@ifsp.edu.br
 b) mariana.baroni@ifsp.edu.br
+c) augusto.almeida@sme.prefeitura.sp.gov.br
     
 Obrigado.
     
