@@ -8,30 +8,40 @@ Escrito por Magrini, L.A. & Baroni, M. P. M. A. & Almeida A. R.
 Gerado em 07/2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-F0  tem         1 dígito
-F1  tem         1 dígito
-F2  tem         2 dígitos
-F3  tem         3 dígitos
-F4  tem         5 dígitos
-F5  tem        10 dígitos
-F6  tem        20 dígitos
-F7  tem        39 dígitos
-F8  tem        78 dígitos
-F9  tem       155 dígitos
-F10 tem       309 dígitos
-F11 tem       617 dígitos
-F12 tem     1.234 dígitos
-F13 tem     2.467 dígitos
-F14 tem     4.933 dígitos
-F15 tem     9.865 dígitos
-F16 tem    19.729 dígitos
-F17 tem    39.457 dígitos
-F18 tem    78.914 dígitos
-F19 tem   157.827 dígitos
-F20 tem   315.653 dígitos
-F21 tem   631.306 dígitos
-F22 tem 1.262.612 dígitos
-F23 tem 2.525.223 dígitos
-F24 tem 5.050.446 dígitos
+F0  tem             1 dígito
+F1  tem             1 dígito
+F2  tem             2 dígitos
+F3  tem             3 dígitos
+F4  tem             5 dígitos
+F5  tem            10 dígitos
+F6  tem            20 dígitos
+F7  tem            39 dígitos
+F8  tem            78 dígitos
+F9  tem           155 dígitos
+F10 tem           309 dígitos
+F11 tem           617 dígitos
+F12 tem         1.234 dígitos
+F13 tem         2.467 dígitos
+F14 tem         4.933 dígitos
+F15 tem         9.865 dígitos
+F16 tem        19.729 dígitos
+F17 tem        39.457 dígitos
+F18 tem        78.914 dígitos
+F19 tem       157.827 dígitos
+F20 tem       315.653 dígitos
+F21 tem       631.306 dígitos
+F22 tem     1.262.612 dígitos
+F23 tem     2.525.223 dígitos
+F24 tem     5.050.446 dígitos
+F25 tem    10.100.891 digitos
+F26 tem    20.201.782 digitos
+F27 tem    40.403.563 digitos
+F28 tem    80.807.125 digitos
+F29 tem   161.614.249 digitos
+F30 tem   323.228.497 digitos
+F31 tem   646.456.994 digitos
+F32 tem 1.292.913.987 digitos
+F33 tem 2.585.827.973 digitos
+F34 tem 5.171.655.946 digitos
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
